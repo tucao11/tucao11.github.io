@@ -10,6 +10,8 @@ title: 关于吐槽本
 邮箱密码为：HQ1611XW    
 github帐号为：tucao11   
 github密码为：HQ1611xw    
+百度统计帐号：yz1611tc   
+百度统计密码：HQ1611xw   
 **请勿做无关修改**
 <p>
 

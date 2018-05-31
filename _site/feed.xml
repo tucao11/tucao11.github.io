@@ -5,9 +5,22 @@
     <description>welcome！这里是吐槽本！</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 31 May 2018 10:44:22 +0800</pubDate>
-    <lastBuildDate>Thu, 31 May 2018 10:44:22 +0800</lastBuildDate>
+    <pubDate>Thu, 31 May 2018 11:23:22 +0800</pubDate>
+    <lastBuildDate>Thu, 31 May 2018 11:23:22 +0800</lastBuildDate>
     <generator>Jekyll v3.8.2</generator>
+    
+      <item>
+        <title>欢迎来到TCB！</title>
+        <description>&lt;h1 id=&quot;welcome&quot;&gt;welcome!&lt;/h1&gt;
+
+&lt;p&gt;第一篇文章，测试一些基础功能。&lt;/p&gt;
+</description>
+        <pubDate>Thu, 31 May 2018 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2018/05/hellotcb/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/05/hellotcb/</guid>
+        
+        
+      </item>
     
   </channel>
 </rss>
